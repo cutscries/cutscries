@@ -1,6 +1,4 @@
-- 👋 я @benzoganger
-- 👀 самозанятый (читать безработный)
-- 🌱 учусь гадить на HTML, CSS, JS, Vue.js, TypeScript
-- 💞️ пишу музыку, участвую в проекте по переводу игр
-- 📫 по любым вопросам - @benzoganger ВКонтакте, в Telegram, ВЖопе....
+- 👋 me @benzoganger
+- 👀 unemployed
+- 🌱 HTML+CSS, Figma, Ableton, PS, Java
 
