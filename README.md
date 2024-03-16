@@ -13,7 +13,7 @@
 # Projects:
 - Danganronpa V3 - [OST Remix](https://vk.com/oh.england)
 - NEEDY GIRL OVERDOSE - [перевод](https://steamcommunity.com/sharedfiles/filedetails/?id=2732334668) с английского на русский
-- Watch Dogs 2 - [Phone controllable Wrench's mask](https://github.com/benzoganger/Bluetooth-Wrench-Mask-WS2812)
+- Watch Dogs 2 - [ESP32 Phone controllable Wrench mask](https://github.com/benzoganger/wrenchmask_esp32)
 
 # Setup:
 <p align="center"><b>Hardware:</b> 
