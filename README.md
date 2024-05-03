@@ -1,6 +1,6 @@
 # ✨ [Ru/En] some info about me:
 
-🌾 IT Student, [breakcore enthusiast](bnzmusic.t.me), [2d designer](bnzdesign.t.me), переводчик, c++/arduino/electronics/ai enthusiast и немножко косплеер 💕
+🌾 IT Student, [breakcore enthusiast](bnzmusic.t.me), [2d and motion designer](bnzdesign.t.me), переводчик, c++/arduino/ai enthusiast и немножко косплеер 💕
 
 🔵 russian (native) and english (b2) speaker
 
@@ -11,7 +11,6 @@
 💙 [pronouns.page (RU)](https://ru.pronouns.page/@benzoganger)
 
 # Projects:
-- Danganronpa V3 - [OST Remix](https://vk.com/oh.england)
 - NEEDY GIRL OVERDOSE - [перевод](https://steamcommunity.com/sharedfiles/filedetails/?id=2732334668) с английского на русский
 - Watch Dogs 2 - [ESP32 Phone controllable Wrench mask](https://github.com/benzoganger/wrenchmask_esp32)
 
