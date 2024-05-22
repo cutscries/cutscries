@@ -8,7 +8,7 @@
 
 ✨ DNI (Do Not Interact): правило одно: не будьте идиотом, спасибо!
 
-💙 [pronouns.page (RU)](https://ru.pronouns.page/@benzoganger)
+💙 [pronouns.page (RU)](https://ru.pronouns.page/@cutscries)
 
 # Projects:
 - NEEDY GIRL OVERDOSE - [перевод](https://steamcommunity.com/sharedfiles/filedetails/?id=2732334668) с английского на русский
