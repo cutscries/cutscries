@@ -1,6 +1,6 @@
 # ✨ [Ru/En] some info about me:
 
-🌾 IT Student, [breakcore enthusiast](bnzmusic.t.me), [2d and motion designer](bnzdesign.t.me), переводчик, c++/arduino/ai enthusiast и немножко косплеер 💕
+🌾 dropout IT Student, [breakcore enthusiast](bnzmusic.t.me), [2d and motion designer](bnzdesign.t.me), переводчик, c++/arduino/ai enthusiast и немножко косплеер 💕
 
 🔵 russian (native) and english (b2) speaker
 
@@ -13,6 +13,7 @@
 # Projects:
 - NEEDY GIRL OVERDOSE - [перевод](https://steamcommunity.com/sharedfiles/filedetails/?id=2732334668) с английского на русский
 - Watch Dogs 2 - [ESP32 Phone controllable Wrench mask](https://github.com/benzoganger/wrenchmask_esp32)
+- (WIP) [@ccurbot](https://github.com/Allnorm/Ccurbot) fork with cryptocurrencies support 
 
 # Setup:
 <p align="center"><b>Hardware:</b> 
