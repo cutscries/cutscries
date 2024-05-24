@@ -11,9 +11,10 @@
 💙 [pronouns.page (RU)](https://ru.pronouns.page/@cutscries)
 
 # Projects:
+- [CurbeeBot](https://github.com/benzoganger/CurbeeBot) - Telegram Inline-Query currency rates bot 
 - NEEDY GIRL OVERDOSE - [перевод](https://steamcommunity.com/sharedfiles/filedetails/?id=2732334668) с английского на русский
 - Watch Dogs 2 - [ESP32 Phone controllable Wrench mask](https://github.com/benzoganger/wrenchmask_esp32)
-- (WIP) [@ccurbot](https://github.com/Allnorm/Ccurbot) fork with cryptocurrencies support 
+
 
 # Setup:
 <p align="center"><b>Hardware:</b> 
