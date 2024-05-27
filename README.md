@@ -1,14 +1,8 @@
 # ✨ [Ru/En] some info about me:
 
-🌾 dropout IT Student, [breakcore enthusiast](bnzmusic.t.me), [2d and motion designer](bnzdesign.t.me), переводчик, c++/arduino/python/ai enthusiast 💕
+(*^‿^*) dropout IT Student, [breakcore enthusiast](cutscriesslices.t.me), [2d and motion designer](bnzdesign.t.me), переводчик, c++/arduino/python/ai enthusiast 💕
 
-🔵 russian (native) and english (b2) speaker
-
-➰ cyno kinnie (｀・ω・´)
-
-✨ DNI (Do Not Interact): правило одно: не будьте идиотом, спасибо!
-
-💙 [pronouns.page (RU)](https://ru.pronouns.page/@cutscries)
+(*^.^*) russian (native) and english (b2) speaker
 
 # Projects:
 - [CurbeeBot](https://github.com/benzoganger/CurbeeBot) - Telegram Inline-Query currency rates bot 
