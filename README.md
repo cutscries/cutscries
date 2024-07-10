@@ -1,6 +1,8 @@
 # ✨ [Ru/En] some info about me:
 
-(*^‿^*) dropout IT Student, [breakcore enthusiast](cutscriesslices.t.me), [2d and motion designer](bnzdesign.t.me), переводчик, c++/arduino/python/ai enthusiast 💕
+(*^‿^*) support specialist (l1) at https://www.aviasales.ru/
+
+dropout IT Student, [breakcore enthusiast](cutscriesslices.t.me), [2d and motion designer](bnzdesign.t.me), переводчик, c++/arduino/python/ai enthusiast 💕
 
 (*^.^*) russian (native) and english (b2) speaker
 
