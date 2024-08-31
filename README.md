@@ -14,7 +14,7 @@ dropout IT Student, [breakcore enthusiast](cutscriesslices.t.me), [2d and motion
 
 # Setup:
 <p align="center"><b>Hardware:</b> 
-  <br>Windows: i7-3770 / GTX 1060 3GB / 16GB DDR3 / 2x 512GB SSD Windows 10 21H2</p>
+  <br>Windows: i7-12900k / GTX 1060 3GB / 16GB DDR4 / 2x 512GB SSD Windows 10 21H2</p>
 
 <p align="center">
     <b>SoftWare:</b><br>
